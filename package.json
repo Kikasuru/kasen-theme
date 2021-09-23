@@ -2,6 +2,7 @@
     "name": "kasen-theme",
     "displayName": "Kasen-Theme",
     "description": "A theme with similar colors to Kasen Ibaraki from Touhou Project!",
+    "publisher": "Kikasuru",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
