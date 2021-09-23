@@ -1,0 +1,21 @@
+{
+    "name": "kasen-theme",
+    "displayName": "Kasen-Theme",
+    "description": "A theme with similar colors to Kasen Ibaraki from Touhou Project!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kasen Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kasen Theme-color-theme.json"
+            }
+        ]
+    }
+}

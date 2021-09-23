@@ -1,0 +1,39 @@
+{
+	"name": "Kasen Theme",
+	"type": "dark",
+	"colors": {
+        "widget.shadow": "#00000000",
+        
+        "button.background": "#74C365",
+
+        "input.background": "#864e5b",
+        "inputOption.activeBorder": "#A1898E",
+
+        "list.activeSelectionBackground": "#74C365",
+        "list.focusOutline": "#00000000",
+        "list.hoverBackground": "#0000003F",
+        "list.inactiveSelectionBackground": "#649b59",
+
+        "activityBar.background": "#864e5b",
+        "activityBarBadge.background": "#74C365",
+
+        "sideBar.background": "#503a3f",
+        "sideBarSectionHeader.background": "#00000000",
+
+        "editorGroup.border": "#22181a",
+        "editorGroupHeader.tabsBackground": "#22181a",
+        "tab.inactiveBackground": "#1b1516",
+        "tab.border": "#00000000",
+
+        "editorCursor.foreground": "#A1898E",
+
+        "editorWidget.background": "#503a3f",
+        "editorWidget.border": "#503a3f",
+
+        "statusBar.background": "#74C365",
+
+        "titleBar.activeBackground": "#864e5b",
+        "titleBar.inactiveBackground": "#864e5b"
+	},
+	"tokenColors": "./Kasen Theme.tmTheme"
+}
