@@ -3,7 +3,7 @@
     "displayName": "Kasen-Theme",
     "description": "A theme with similar colors to Kasen Ibaraki from Touhou Project!",
     "publisher": "Kikasuru",
-    "version": "0.0.1",
+    "version": "1.0",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -18,5 +18,9 @@
                 "path": "./themes/Kasen Theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kikasuru/kasen-theme.git"
     }
 }
